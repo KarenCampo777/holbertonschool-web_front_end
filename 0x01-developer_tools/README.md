@@ -3,7 +3,7 @@
 ## Learning Objectives
 
 #### * What Developer Tools in your browser are
-Nowadays, web browsers include a powerful suite of tools for developers that can do a range of different things, from inspecting currently-loaded HTML, CSS and JavaScript to showing which assets the page has requested and how long it takes them to load.
+Nowadays, web browsers include powerful tools for developers that can do a range of different things, from inspecting currently-loaded HTML, CSS and JavaScript to showing which assets the page has requested and how long it takes them to load.
 
 #### * How to open the Developer Tools on Chrome, Firefox, Safari, and Edge.
 ##### Google Chrome
