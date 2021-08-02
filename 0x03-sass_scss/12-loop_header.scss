@@ -1,0 +1,6 @@
+/*Write a Sass file that creates H tags*/
+@for $int from 1 to 6 {
+    h#{$int} {
+        font-size: #{$int}px;
+    }
+}
