@@ -29,6 +29,7 @@
 
 html{
     scroll-behavior: smooth;
+    font-size: 62.5%;
 } 
 
 body {
@@ -53,10 +54,7 @@ a {
    display: none;
 }
 
-.card-category {
-    color: var(--color-primary);
-}
-
+.card-category,
 .section-tagline {
     color: var(--color-primary);
 }
