@@ -1,0 +1,6 @@
+/*Write a Sass file that creates classes with different width: You must create .col-* class from 1 to 4, You must use a @for statement*/
+@for $int from 1 to 5 {
+    .col-#{$int} {
+        width: (100% / $int);
+    }
+}
