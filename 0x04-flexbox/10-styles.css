@@ -525,7 +525,11 @@ ul.row {
   min-height: 50vh;
 }
 
-.section-category {
+.section-hero .section-body {
+  padding: 10rem 4rem;
+}
+
+.section-hero .section-category {
   color: var(--color-white);
   text-transform: uppercase;
 }
